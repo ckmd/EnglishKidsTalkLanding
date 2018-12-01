@@ -236,7 +236,7 @@
 	    transform: scale(1);
 	}
 	.screenshot-col .slide-item {
-		margin: 0 10px;
+		/* margin: 0 10px; */
 	}
 	.screenshot-area {
 	    padding: 120px 0 110px;
@@ -272,7 +272,7 @@
 	    transform: scale(1);
 	}
 	.screenshot-col .slide-item {
-		margin: 0 10px;
+		/* margin: 0 10px; */
 	}
 	.download-col .section-title h2:before, .download-col .section-title h2:after {
 		display: none;
