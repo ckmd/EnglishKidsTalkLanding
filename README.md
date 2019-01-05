@@ -2,6 +2,19 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.4.
 
+## English Kids Talk Structure
+<p align="center">
+<img src="https://github.com/bossyahrul/EnglishKidsTalkAPI/blob/master/Architecture%20System.png" width="750">
+</p>
+
+### Related Project
+
+English Kids Talk Related Project:
+
+1. [English Kids Talk API Page](https://github.com/bossyahrul/EnglishKidsTalkAPI) - The API Gateway for english kids talk application
+2. [English Kids Talk Android Client](https://github.com/Miftahunajat/EnglishKidsTalk) - Manage the android client side of English Kids Talk application
+3. [English Kids Talk Dashboard Admin Page](https://github.com/ckmd/EnglishKidsTalkDashboard) - Admin page for English Kids Talk to managing content and managing user.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
